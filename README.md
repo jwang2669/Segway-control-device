@@ -1,3 +1,5 @@
+# Self-Balancing “Segway” Controller
+
 A complete FPGA-based digital control system for a self-balancing two-wheel platform implemented in **SystemVerilog**.
 
 This project integrates:
@@ -321,3 +323,5 @@ Outputs:
 * Gate-level netlist (`Segway.vg`)
 * Timing reports
 * Area reports
+
+---
